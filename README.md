@@ -1,6 +1,6 @@
 # E-commerce (PHP OOP)
 
-![E-commerce](e-commerce-admin-hilalsalarzi.png) <!-- You can add an image or screenshot of your project here -->
+![E-commerce](e-commerce-admin-hilalsalarzi.png) `<!-- You can add an image or screenshot of your project here -->`
 
 ## Installation Steps
 
@@ -50,15 +50,3 @@
 ## Contributions
 
 Contributions are welcome! If you find any issues with the application or want to add new features, feel free to open a pull request.
-
-
-
----
-
-Thank you for exploring the E-commerce (PHP OOP) application! For any questions or feedback, feel free to contact me.
-
-[LinkedIn](https://www.linkedin.com/in/hilalsalarzi)
-[Email](mailto:hilalahamdsalarzi@gmail.com)
-[GitHub](https://github.com/hilalsalarzi)
-[Facebook](https://www.facebook.com/hilalsalarzi)
-[Instagram](https://www.instagram.com/hilalsalarzi)
